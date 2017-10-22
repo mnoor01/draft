@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
     EditText eText;
     Button button1;
 
+    //changes to see git working
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
